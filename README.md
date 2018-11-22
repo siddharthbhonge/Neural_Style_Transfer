@@ -2,7 +2,7 @@
 
 Neural Style learning is one of the most exciting sides of deep learning.Ever wondered if Angelina Jolie was painted by Da Vinci?<br />
 
-![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/blob/master/demo2.jpg)
+![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/blob/master/demo1.jpg)
 
 ![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/blob/master/demo2.jpg)
 
@@ -29,7 +29,7 @@ Neural Style learning is one of the most exciting sides of deep learning.Ever wo
   
 
  ####  Content Cost
-![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/content_cost.jpg)
+![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/blob/master/content_cost.jpg)
 
   
 
@@ -37,11 +37,11 @@ Neural Style learning is one of the most exciting sides of deep learning.Ever wo
 
  #### Style Cost
 
-![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/sid/style_cost.jpg)
+![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/blob/master/style_cost.jpg)
 
  #### Total Cost
 
-![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/sid/total_cost.jpg)
+![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/blob/master/total_cost.png)
 
 
 ## Note
