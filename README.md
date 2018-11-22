@@ -1,8 +1,11 @@
 # What if Statue of Liberty was painted by Picasso?
 
-Neural Style learning is one of the most exciting sides of deep learning.Ever wondered if Angelina Jolie was painted by Da Vinci?
+Neural Style learning is one of the most exciting sides of deep learning.Ever wondered if Angelina Jolie was painted by Da Vinci?<br />
+
 ![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/sid/demo2.jpg)
+
 ![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/sid/demo1.jpg)
+
 ## Installation
 
  - Keras
