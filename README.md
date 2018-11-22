@@ -1,8 +1,8 @@
 # What if Statue of Liberty was painted by Picasso?
 
 Neural Style learning is one of the most exciting sides of deep learning.Ever wondered if Angelina Jolie was painted by Da Vinci?
-![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/demo2.png)
-![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/demo1.png)
+![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/sid/demo2.jpg)
+![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/sid/demo1.jpg)
 ## Installation
 
  - Keras
@@ -26,7 +26,7 @@ Neural Style learning is one of the most exciting sides of deep learning.Ever wo
   
 
   ####  Content Cost
-![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/blob/master/images/angie1.jpg)
+![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/sid/content_cost.jpg)
 
   
 
@@ -34,11 +34,11 @@ Neural Style learning is one of the most exciting sides of deep learning.Ever wo
 
  #### Style Cost
 
-![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/style_cost.png)
+![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/sid/style_cost.jpg)
 
  #### Total Cost
 
-![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/total_cost.png)
+![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/sid/total_cost.jpg)
 
 
 ## Note
