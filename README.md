@@ -62,3 +62,11 @@ Neural Style learning is one of the most exciting sides of deep learning.Ever wo
 
 Andrew Ng's Deep Learning Specialization.<br />
 
+
+ Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, (2015). A Neural Algorithm of Artistic Style (https://arxiv.org/abs/1508.06576)<br />
+ Harish Narayanan, Convolutional neural networks for artistic style transfer. https://harishnarayanan.org/writing/artistic-style-transfer/<br />
+ Log0, TensorFlow Implementation of "A Neural Algorithm of Artistic Style". http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style<br />
+ Karen Simonyan and Andrew Zisserman (2015). Very deep convolutional networks for large-scale image recognition (https://arxiv.org/pdf/1409.1556.pdf)<br />
+ MatConvNet. http://www.vlfeat.org/matconvnet/pretrained/<br />
+
+
