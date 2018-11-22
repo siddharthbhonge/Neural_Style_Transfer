@@ -2,8 +2,8 @@
 
 Neural Style learning is one of the most exciting sides of deep learning.Ever wondered if Angelina Jolie was painted by Da Vinci?
 
-
-[![screenshot](https://github.com/siddharthbhonge/Piano_music_generation_using_LSTM/blob/master/img/images.jpeg)
+[![screenshot](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/demo2.png)
+[![screenshot](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/demo1.png)
 ## Installation
 
  - Keras
@@ -27,7 +27,7 @@ Neural Style learning is one of the most exciting sides of deep learning.Ever wo
   
 
   ####  Content Cost
-[![screenshot](https://github.com/siddharthbhonge/Piano_music_generation_using_LSTM/blob/master/img/images.jpeg)
+[![screenshot](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/content_cost.png)
 
   
 
@@ -35,13 +35,11 @@ Neural Style learning is one of the most exciting sides of deep learning.Ever wo
 
  #### Style Cost
 
-[![screenshot](https://github.com/siddharthbhonge/Piano_music_generation_using_LSTM/blob/master/img/images.jpeg)
-
+[![screenshot](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/style_cost.png)
 
  #### Total Cost
 
-[![screenshot](https://github.com/siddharthbhonge/Piano_music_generation_using_LSTM/blob/master/img/images.jpeg)
-
+[![screenshot](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/total_cost.png)
 
 
 ## Note
