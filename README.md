@@ -10,8 +10,8 @@ Neural Style learning is one of the most exciting sides of deep learning.Ever wo
 
  - Keras
  - TensorFlow
- - Python MIDI
- -  Numpy
+ - Scipy
+ - Numpy
 
 ## Details
 
