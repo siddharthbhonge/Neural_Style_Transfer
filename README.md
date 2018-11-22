@@ -26,7 +26,7 @@ Neural Style learning is one of the most exciting sides of deep learning.Ever wo
   
 
   ####  Content Cost
-![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/tree/master/images/content_cost.png)
+![alt text](https://github.com/siddharthbhonge/Neural_Style_transfer/blob/master/images/angie1.jpg)
 
   
 
